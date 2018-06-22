@@ -19,6 +19,7 @@
 				"allowForLoopAfterthoughts": true
 			}
 		],
+		"nonblock-statement-body-position": "off",
 		"no-continue": 0,
 		"indent": [
 			2,
