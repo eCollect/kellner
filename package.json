@@ -1,6 +1,6 @@
 {
   "name": "kellner",
-  "version": "0.0.455",
+  "version": "0.0.46",
   "description": "Build stream based ES/CQRS applications",
   "main": "index.js",
   "private": false,
