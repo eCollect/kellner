@@ -21,13 +21,13 @@
   "dependencies": {
     "app-root-path": "^2.1.0",
     "formats": "^1.0.0",
-    "mongodb": "^3.1.10",
-    "mongoose": "^5.3.13",
-    "pino": "^5.9.0",
-    "pino-pretty": "^2.2.4",
-    "require-dir": "^1.1.0",
+    "mongodb": "^3.1.13",
+    "mongoose": "^5.3.14",
+    "pino": "^5.11.1",
+    "pino-pretty": "^2.5.0",
+    "require-dir": "^1.2.0",
     "stack-trace": "0.0.10",
     "uuid": "^3.3.2",
-    "zaek": "^0.1.51"
+    "zaek": "^0.1.52"
   }
 }
