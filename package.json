@@ -21,8 +21,6 @@
   "dependencies": {
     "app-root-path": "^2.1.0",
     "formats": "^1.0.0",
-    "mongodb": "^3.1.13",
-    "mongoose": "^5.3.14",
     "pino": "^5.11.1",
     "pino-pretty": "^2.5.0",
     "require-dir": "^1.2.0",
