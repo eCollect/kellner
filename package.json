@@ -1,6 +1,6 @@
 {
   "name": "kellner",
-  "version": "0.0.52",
+  "version": "0.0.53",
   "description": "Build stream based ES/CQRS applications",
   "main": "index.js",
   "private": false,
@@ -21,8 +21,8 @@
   "dependencies": {
     "app-root-path": "^2.1.0",
     "formats": "^1.0.0",
-    "pino": "^5.11.1",
-    "pino-pretty": "^2.5.0",
+    "pino": "^5.12.6",
+    "pino-pretty": "^3.1.0",
     "require-dir": "^1.2.0",
     "stack-trace": "0.0.10",
     "uuid": "^3.3.2",
