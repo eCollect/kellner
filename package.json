@@ -12,17 +12,17 @@
     "url": "https://github.com/eCollect/kellner.git"
   },
   "devDependencies": {
-    "eslint": "^6.2.2",
-    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint": "^6.5.1",
+    "eslint-config-ecollect-base": "^0.1.2",
     "eslint-plugin-import": "^2.18.2"
   },
   "author": "eCollect AG.",
   "license": "MIT",
   "dependencies": {
-    "app-root-path": "^2.2.1",
+    "app-root-path": "^3.0.0",
     "formats": "^1.0.0",
-    "pino": "^5.13.2",
-    "pino-pretty": "^3.2.1",
+    "pino": "^5.14.0",
+    "pino-pretty": "^3.4.0",
     "require-dir": "^1.2.0",
     "stack-trace": "0.0.10",
     "uuid": "^3.3.3",
