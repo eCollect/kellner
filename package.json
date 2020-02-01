@@ -21,11 +21,11 @@
   "dependencies": {
     "app-root-path": "^3.0.0",
     "formats": "^1.0.0",
-    "pino": "^5.14.0",
-    "pino-pretty": "^3.4.0",
+    "pino": "^5.16.0",
+    "pino-pretty": "^3.5.0",
     "require-dir": "^1.2.0",
     "stack-trace": "0.0.10",
-    "uuid": "^3.3.3",
+    "uuid": "^3.4.0",
     "zaek": "^1.0.1"
   }
 }
